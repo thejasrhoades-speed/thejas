@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:16213e&height=250&section=header&text=thejasrhaodes-speed&fontSize=45&fontColor=c9a84c&fontAlignY=40&desc=✦%20Data%20Analyst%20Student%20✦&descAlignY=60&descSize=20&descColor=e8d5a3&animation=fadeIn&stroke=c9a84c&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:16213e&height=250&section=header&text=thejasrhoades-speed&fontSize=45&fontColor=c9a84c&fontAlignY=40&desc=✦%20Data%20Analyst%20Student%20✦&descAlignY=60&descSize=20&descColor=e8d5a3&animation=fadeIn&stroke=c9a84c&strokeWidth=1" />
 
 </div>
 
@@ -104,13 +104,13 @@
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thejasrhaodes-speed&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=c9a84c&icon_color=c9a84c&text_color=e8d5a3&bg_color=0d0d1a" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=thejasrhoades-speed&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=c9a84c&icon_color=c9a84c&text_color=e8d5a3&bg_color=0d0d1a" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejasrhaodes-speed&layout=compact&theme=midnight-purple&hide_border=true&title_color=c9a84c&text_color=e8d5a3&bg_color=0d0d1a" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejasrhoades-speed&layout=compact&theme=midnight-purple&hide_border=true&title_color=c9a84c&text_color=e8d5a3&bg_color=0d0d1a" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=thejasrhaodes-speed&theme=midnight-purple&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d1a&stroke=1a1a2e&sideLabels=e8d5a3&dates=888" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=thejasrhoades-speed&theme=midnight-purple&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d1a&stroke=1a1a2e&sideLabels=e8d5a3&dates=888" />
 
 </div>
 
@@ -150,7 +150,7 @@ current_focus = {
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thejasrhaodes-speed&bg_color=0d0d1a&color=c9a84c&line=c9a84c&point=e8d5a3&area=true&area_color=c9a84c&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thejasrhoades-speed&bg_color=0d0d1a&color=c9a84c&line=c9a84c&point=e8d5a3&area=true&area_color=c9a84c&hide_border=true" />
 
 </div>
 
@@ -166,7 +166,7 @@ current_focus = {
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23c9a84c.svg?style=for-the-badge&logo=github&logoColor=0d0d1a)](https://github.com/thejasrhaodes-speed)
+[![GitHub](https://img.shields.io/badge/GitHub-%23c9a84c.svg?style=for-the-badge&logo=github&logoColor=0d0d1a)](https://github.com/thejasrhoades-speed)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23c9a84c.svg?style=for-the-badge&logo=linkedin&logoColor=0d0d1a)](https://linkedin.com)
 &nbsp;
@@ -176,7 +176,7 @@ current_focus = {
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thejasrhaodes-speed&style=for-the-badge&color=c9a84c&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=thejasrhoades-speed&style=for-the-badge&color=c9a84c&label=PROFILE+VIEWS)
 
 <br/><br/>
 
@@ -192,5 +192,5 @@ current_focus = {
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=130&section=footer&fontColor=c9a84c&fontSize=16&text=✦%20thejasrhaodes-speed%20✦&descColor=e8d5a3&animation=fadeIn&stroke=c9a84c&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=130&section=footer&fontColor=c9a84c&fontSize=16&text=✦%20thejasrhoades-speed%20✦&descColor=e8d5a3&animation=fadeIn&stroke=c9a84c&strokeWidth=1" />
 </div>
